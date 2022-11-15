@@ -7,5 +7,5 @@ int main()
     {
         n++;
     }
-    printf("%d", n);
+    printf("n = %d", n);
 }
